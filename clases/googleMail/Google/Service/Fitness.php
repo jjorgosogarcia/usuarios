@@ -576,7 +576,7 @@ class Google_Service_Fitness_UsersDataSourcesDatasets_Resource extends Google_Se
 
   /**
    * Adds data points to a dataset. The dataset need not be previously created.
-   * All points within the given dataset will be returned with subsquent calls to
+   * All points within the given dataset will be returned with subsequent calls to
    * retrieve this dataset. Data points can belong to more than one dataset. This
    * method does not use patch semantics. (datasets.patch)
    *
